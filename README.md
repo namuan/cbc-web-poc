@@ -90,4 +90,4 @@ podman compose --profile test run --rm --build test-runner
 
 ## License
 
-MIT. See [`LICENSE`](LICENSE).
+MIT licensed; see [LICENSE](LICENSE).
