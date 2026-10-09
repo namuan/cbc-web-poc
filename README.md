@@ -74,6 +74,8 @@ The default database password and seeded identities are for local development on
 
 ## Checks
 
+The incremental assurance roadmap is in [`docs/cbc-testing-plan.md`](docs/cbc-testing-plan.md).
+
 ```sh
 npm ci
 npm run typecheck
